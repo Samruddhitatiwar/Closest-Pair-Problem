@@ -100,6 +100,4 @@ to find the distance between closest pair of points.This process will be done on
 left half and second point in the right half.  
 6.This is handled using bandMinimum method.  
 
-## Complexity Analysis  
-Though this problem can be solved using Brute Force method in *O(n^2)* time complexity.
-Using, Divide and Conquer approach brings this complexity to *O(nLogn)*
+
